@@ -10,6 +10,8 @@
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 - https://www.typescriptlang.org/docs/handbook/2/objects.html
 
+- https://www.typescriptlang.org/docs/handbook/2/types-from-types.html
+
 ### Commands
 - $ tsc --init
 
