@@ -30,7 +30,7 @@
 - :union
 - :literal
 - :never
-- :Function
+- :function
 
 ### WATCH MODE
 
